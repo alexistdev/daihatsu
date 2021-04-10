@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">daihatsu</string>
+    <!-- Splash Activity  -->
+    <string name="splash1">Logo Astra Daihatsu</string>
+    <string name="splash2">Logo Astra Daihatsu</string>
+    <string name="splash3">Copyright © 2021 The Pioneer One - All right reserved </string>
+    <!-- Login Activity  -->
+    <string name="login1">Logo Astra Daihatsu</string>
+    <string name="login2">Login</string>
+    <string name="login3">Email</string>
+    <string name="login4">Password</string>
+    <string name="login5">Tombol Login</string>
+</resources>
