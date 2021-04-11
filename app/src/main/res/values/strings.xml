@@ -10,4 +10,34 @@
     <string name="login3">Email</string>
     <string name="login4">Password</string>
     <string name="login5">Tombol Login</string>
+    <!-- Bottom Navigation Menu  -->
+    <string name="menu1">Home</string>
+    <string name="menu2">My Order</string>
+    <string name="menu3">Contact Us</string>
+    <string name="menu4">Profile</string>
+
+    <!-- Home  -->
+
+    <!-- Order  -->
+
+    <!-- Inbox  -->
+
+    <!-- Profil  -->
+    <string name="profil1">Profile</string>
+    <string name="profil2">Alexsander Hendra Wijaya</string>
+    <string name="profil3">0823 7140 8678</string>
+    <string name="profil4">info@alexistdev.com</string>
+    <string name="profil5">Icon Edit</string>
+    <string name="profil6">Alamat</string>
+    <string name="profil7">Gang Mawar Coklat, no E2</string>
+    <string name="profil8">sidodadi,pagelaran,pringsewu,bandarlampung</string>
+    <string name="profil9">Lampung</string>
+    <string name="profil10">Data Kendaraan</string>
+    <string name="profil11">Tentang Kami</string>
+    <string name="profil12">Kebijakan Privacy</string>
+    <string name="profil13">Logout</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

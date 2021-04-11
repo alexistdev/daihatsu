@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 
+import com.alexistdev.daihatsu.MainActivity;
 import com.alexistdev.daihatsu.R;
 
 import java.util.Timer;
@@ -26,7 +27,7 @@ public class Splashactivity extends AppCompatActivity {
             @Override
             public void run() {
                 finish();
-                Intent homepage = new Intent(Splashactivity.this, login.class);
+                Intent homepage = new Intent(Splashactivity.this, MainActivity.class);
                 startActivity(homepage);
             }
         }, timeout);

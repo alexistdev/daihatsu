@@ -9,4 +9,12 @@
     <color name="white">#FFFFFFFF</color>
     <color name="gradien1">#333333</color>
     <color name="loginText">#C11D4B</color>
+
+    <!--  Menu Toolbar  -->
+    <color name="bgbtToolbar">#9A1239</color>
+    <color name="toolbarSelector">#070707</color>
+
+    <!--  Menu Profil  -->
+    <color name="warnaAbu">#878585</color>
+    <color name="colorPrimary">#700B0B</color>
 </resources>
